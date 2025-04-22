@@ -1,0 +1,13 @@
+Flask
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+tensorflow
+keras
+Pillow
+
+OPTIONAL (For development and visualisation)
+pickle
+Pillow
